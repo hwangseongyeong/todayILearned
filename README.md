@@ -12,4 +12,4 @@
 
 [코틀린 컴패니언 객체 2020-05-08](https://github.com/hwangsungyoung/todayILearned/blob/master/kotlin/20200508.md)
 
-# ?
+[코틀린 지연 초기화 2020-05-09](https://github.com/hwangsungyoung/todayILearned/blob/master/kotlin/20200509.md)
