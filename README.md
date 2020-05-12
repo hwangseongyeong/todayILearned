@@ -16,7 +16,7 @@
 
 [코틀린 추상클래스와 인터페이스 2020-05-10](https://github.com/hwangsungyoung/todayILearned/blob/master/kotlin/20200510.md)
 
-[코틀린 제너 2020-05-12](https://github.com/hwangsungyoung/todayILearned/blob/master/kotlin/20200512.md)
+[코틀린 제너릭 2020-05-12](https://github.com/hwangsungyoung/todayILearned/blob/master/kotlin/20200512.md)
 
 # 코틀린 restful 웹서버 만들기
 
