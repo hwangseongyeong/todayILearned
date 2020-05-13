@@ -18,6 +18,8 @@
 
 [코틀린 제너릭 2020-05-12](https://github.com/hwangsungyoung/todayILearned/blob/master/kotlin/20200512.md)
 
+[코틀린 배 2020-05-13](https://github.com/hwangsungyoung/todayILearned/blob/master/kotlin/20200513.md)
+
 # 코틀린 restful 웹서버 만들기
 
 [hello world 2020-05-11](https://github.com/hwangsungyoung/todayILearned/blob/master/kotlin-restful/20200511.md)
