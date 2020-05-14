@@ -23,3 +23,5 @@
 # 코틀린 restful 웹서버 만들기
 
 [hello world 2020-05-11](https://github.com/hwangsungyoung/todayILearned/blob/master/kotlin-restful/20200511.md)
+
+[Swagger2 적 2020-05-14](https://github.com/hwangsungyoung/todayILearned/blob/master/kotlin-restful/20200514.md)
