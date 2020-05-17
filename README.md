@@ -24,4 +24,6 @@
 
 [hello world 2020-05-11](https://github.com/hwangsungyoung/todayILearned/blob/master/kotlin-restful/20200511.md)
 
-[Swagger2 적 2020-05-14](https://github.com/hwangsungyoung/todayILearned/blob/master/kotlin-restful/20200514.md)
+[Swagger2 적용 2020-05-14](https://github.com/hwangsungyoung/todayILearned/blob/master/kotlin-restful/20200514.md)
+
+[JPA 적용 2020-05-17](https://github.com/hwangsungyoung/todayILearned/blob/master/kotlin-restful/20200517.md)
