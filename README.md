@@ -20,7 +20,7 @@
 
 [코틀린 배열 2020-05-13](https://github.com/hwangsungyoung/todayILearned/blob/master/kotlin/20200513.md)
 
-[코틀린 표준함수 2020-05-13ㅅ8](https://github.com/hwangsungyoung/todayILearned/blob/master/kotlin/20200518.md)
+[코틀린 표준함수 2020-05-18](https://github.com/hwangsungyoung/todayILearned/blob/master/kotlin/20200518.md)
 
 
 # 코틀린 restful 웹서버 만들기
