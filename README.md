@@ -27,3 +27,5 @@
 [Swagger2 적용 2020-05-14](https://github.com/hwangsungyoung/todayILearned/blob/master/kotlin-restful/20200514.md)
 
 [JPA 적용 2020-05-17](https://github.com/hwangsungyoung/todayILearned/blob/master/kotlin-restful/20200517.md)
+
+[다중데이터베이스 연결 2020-05-19](https://github.com/hwangsungyoung/todayILearned/blob/master/kotlin-restful/20200519.md)
