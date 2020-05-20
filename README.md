@@ -32,3 +32,8 @@
 [JPA 적용 2020-05-17](https://github.com/hwangsungyoung/todayILearned/blob/master/kotlin-restful/20200517.md)
 
 [다중데이터베이스 연결 2020-05-19](https://github.com/hwangsungyoung/todayILearned/blob/master/kotlin-restful/20200519.md)
+
+
+# 리펙토링
+
+[메서드 추출 2020-05-20](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200520.md)
