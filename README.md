@@ -40,5 +40,5 @@
 
 # 안드로이드
 
-[기본개 2020-05-21](https://github.com/hwangsungyoung/todayILearned/blob/master/android/20200521.md)
+[기본개념 2020-05-21](https://github.com/hwangsungyoung/todayILearned/blob/master/android/20200521.md)
  
