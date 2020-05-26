@@ -40,6 +40,8 @@
 
 [메서드 내용 직접 삽입 2020-05-25](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200525.md)
 
+[임시변수 분리 2020-05-26](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200526.md)
+
 # 안드로이드
 
 [기본개념1 2020-05-21](https://github.com/hwangsungyoung/todayILearned/blob/master/android/20200521.md)
