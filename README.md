@@ -42,9 +42,14 @@
 
 [임시변수 분리 2020-05-26](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200526.md)
 
+[알고리즘 전환 2020-05-27](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200527.md)
+
+
 # 안드로이드
 
 [기본개념1 2020-05-21](https://github.com/hwangsungyoung/todayILearned/blob/master/android/20200521.md)
 
 [기본개념2 2020-05-24](https://github.com/hwangsungyoung/todayILearned/blob/master/android/20200524.md)
- 
+
+# 엘라스틱서치
+
