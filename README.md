@@ -44,6 +44,8 @@
 
 [알고리즘 전환 2020-05-27](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200527.md)
 
+[메서드 이동 2020-05-28](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200528.md)
+
 
 # 안드로이드
 
