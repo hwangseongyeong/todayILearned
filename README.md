@@ -46,6 +46,8 @@
 
 [메서드 이동 2020-05-28](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200528.md)
 
+[필드 이동 2020-06-01](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200601.md)
+
 
 # 안드로이드
 
