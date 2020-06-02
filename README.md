@@ -48,6 +48,7 @@
 
 [필드 이동 2020-06-01](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200601.md)
 
+[클래스 추출 2020-06-01](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200602.md)
 
 # 안드로이드
 
