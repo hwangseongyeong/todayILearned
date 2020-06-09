@@ -58,6 +58,8 @@
 
 [메서드명 변경 2020-06-08](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200608.md)
 
+[매개변수 추가 2020-06-09](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200609.md)
+
 
 # 안드로이드
 
