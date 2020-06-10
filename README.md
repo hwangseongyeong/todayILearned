@@ -60,6 +60,7 @@
 
 [매개변수 추가 2020-06-09](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200609.md)
 
+[메서드를 메서드 객체로 전환 2020-06-10](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200610.md)
 
 # 안드로이드
 
