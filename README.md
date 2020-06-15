@@ -64,6 +64,9 @@
 
 [여러 겹의 조검문을 감시 절로 전환 2020-06-11](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200611.md)
 
+[Null 검사를 널 객채에 위임 2020-06-15](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200615.md)
+
+
 # 안드로이드
 
 [기본개념1 2020-05-21](https://github.com/hwangsungyoung/todayILearned/blob/master/android/20200521.md)
