@@ -66,6 +66,7 @@
 
 [Null 검사를 널 객채에 위임 2020-06-15](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200615.md)
 
+[어설션 넣기 2020-06-16](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200616.md)
 
 # 안드로이드
 
