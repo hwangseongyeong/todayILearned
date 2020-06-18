@@ -70,6 +70,7 @@
 
 [조건문을 재정의로 전환 2020-06-17](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200617.md)
 
+[객체를 통째로 전달 2020-06-18](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200618.md)
 
 # 안드로이드
 
