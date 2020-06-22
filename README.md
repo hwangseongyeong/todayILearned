@@ -72,6 +72,11 @@
 
 [객체를 통째로 전달 2020-06-18](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200618.md)
 
+[생성자 내용 상향 2020-06-21](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200621.md)
+
+[필드 상향 2020-06-22](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200622.md)
+
+
 # 안드로이드
 
 [기본개념1 2020-05-21](https://github.com/hwangsungyoung/todayILearned/blob/master/android/20200521.md)
