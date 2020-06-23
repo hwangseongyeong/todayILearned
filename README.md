@@ -76,6 +76,7 @@
 
 [필드 상향 2020-06-22](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200622.md)
 
+[메서드 상향 2020-06-23](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200623.md)
 
 # 안드로이드
 
