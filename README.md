@@ -80,6 +80,8 @@
 
 [상태 변경 메서드와 값 반환 메서드를 분리 2020-06-24](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200624.md)
 
+[메서드를 매개변수로 전환 2020-06-25](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200625.md)
+
 # 안드로이드
 
 [기본개념1 2020-05-21](https://github.com/hwangsungyoung/todayILearned/blob/master/android/20200521.md)
