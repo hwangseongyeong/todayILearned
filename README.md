@@ -82,6 +82,8 @@
 
 [메서드를 매개변수로 전환 2020-06-25](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200625.md)
 
+[분류 부호를 클래스로 전환  2020-06-28](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200628.md)
+
 # 안드로이드
 
 [기본개념1 2020-05-21](https://github.com/hwangsungyoung/todayILearned/blob/master/android/20200521.md)
