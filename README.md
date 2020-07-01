@@ -86,7 +86,9 @@
 
 [분류 부호를 하위클래스로 전환  2020-06-29](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200629.md)
 
-[분류 부호를 상태/전략 패턴으로 전환  2020-06-30](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200630.md)
+[분류 부호를 상태/전략 패턴으로 전환 2020-06-30](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200630.md)
+
+[하위 클래스를 필드로 전환 2020-06-30](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200701.md)
 
 
 # 안드로이드
