@@ -90,6 +90,10 @@
 
 [하위 클래스를 필드로 전환 2020-07-01](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200701.md)
 
+[상속을 위임으로 전환 2020-07-02](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200702.md)
+
+[위임을 상속으로 전환 2020-07-05](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200705.md)
+
 
 # 안드로이드
 
