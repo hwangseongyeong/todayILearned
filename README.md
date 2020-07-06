@@ -94,6 +94,7 @@
 
 [위임을 상속으로 전환 2020-07-05](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200705.md)
 
+[에러 부호를 예외 통지로 교체 2020-07-06](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200706.md)
 
 # 안드로이드
 
