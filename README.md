@@ -98,6 +98,10 @@
 
 [예외 처리를 테스트로 교체 2020-07-07](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200707.md)
 
+[쓰기 메서드 제거 2020-07-11](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200711.md)
+
+[매개변수를 메서드로 전환 2020-07-12](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200712.md)
+
 # 안드로이드
 
 [기본개념1 2020-05-21](https://github.com/hwangsungyoung/todayILearned/blob/master/android/20200521.md)
