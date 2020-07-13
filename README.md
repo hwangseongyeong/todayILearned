@@ -102,6 +102,8 @@
 
 [매개변수를 메서드로 전환 2020-07-12](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200712.md)
 
+[조건문의 공통 실행 코드 빼내기 2020-07-13](https://github.com/hwangsungyoung/todayILearned/blob/master/refactoring/20200713.md)
+
 # 안드로이드
 
 [기본개념1 2020-05-21](https://github.com/hwangsungyoung/todayILearned/blob/master/android/20200521.md)
