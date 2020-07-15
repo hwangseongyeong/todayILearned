@@ -110,5 +110,10 @@
 
 [기본개념2 2020-05-24](https://github.com/hwangsungyoung/todayILearned/blob/master/android/20200524.md)
 
-# 엘라스틱서치
+# 파이썬
+
+[파이썬 기초 문법1 2020-07-14](https://github.com/hwangsungyoung/todayILearned/blob/master/python/20200714.md)
+
+[파이썬 기초 문법2 2020-07-15](https://github.com/hwangsungyoung/todayILearned/blob/master/python/20200715.md)
+
 
