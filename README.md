@@ -116,4 +116,5 @@
 
 [파이썬 기초 문법2 2020-07-15](https://github.com/hwangsungyoung/todayILearned/blob/master/python/20200715.md)
 
+[파이썬 기초 문법3 2020-07-16](https://github.com/hwangsungyoung/todayILearned/blob/master/python/20200716.md)
 
