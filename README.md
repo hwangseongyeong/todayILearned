@@ -123,3 +123,7 @@
 [자료형 2020-07-20](https://github.com/hwangsungyoung/todayILearned/blob/master/python/20200720.md)
 
 [for 문 2020-07-21](https://github.com/hwangsungyoung/todayILearned/blob/master/python/20200721.md)
+
+[함수 1 2020-07-22](https://github.com/hwangsungyoung/todayILearned/blob/master/python/20200722.md)
+
+[함수 2 2020-07-23](https://github.com/hwangsungyoung/todayILearned/blob/master/python/20200723.md)
