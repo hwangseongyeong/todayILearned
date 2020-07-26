@@ -127,3 +127,5 @@
 [함수 1 2020-07-22](https://github.com/hwangsungyoung/todayILearned/blob/master/python/20200722.md)
 
 [함수 2 2020-07-23](https://github.com/hwangsungyoung/todayILearned/blob/master/python/20200723.md)
+
+[파일 읽고 쓰기 2020-07-27](https://github.com/hwangsungyoung/todayILearned/blob/master/python/20200727.md)
